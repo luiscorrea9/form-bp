@@ -1,0 +1,18 @@
+h1{
+  padding-left: 50%;
+}
+
+.btnAdd{
+padding-top: 10px;
+padding-bottom: 10px;
+}
+
+body{
+  background: -webkit-linear-gradient(to right, #ACB6E5, #74ebd5);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #ACB6E5, #74ebd5); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  
+}
+
+.messageToUsers{
+  color: red;
+}
